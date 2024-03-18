@@ -1,4 +1,7 @@
-# sprinter
-Search specific path in IP range
+# Moly
 
-** need to increase speed **
+> Search specific path in IP range
+
+```
+./moly.sh <ip_range>
+```
